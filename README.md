@@ -1,12 +1,12 @@
-# admin-dashboard.v3
+# gulp-expressjs
 
 setup steps:
 
-git clone https://github.com/ashokpal100/admin-dashboard.v3
-cd admin-dashboard.v3
+git clone https://github.com/ashokpal100/gulp-expressjs
+cd gulp-expressjs
 npm install
 npm install bower -g
 bower install
 npm start
 
-#angularjs #bootstrap #gulp #nodejs #expressjs #echarts
+#angularjs #gulp #nodejs #expressjs
